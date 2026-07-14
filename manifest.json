@@ -1,0 +1,10 @@
+{
+  "id": "weavemind-ai",
+  "name": "WeaveMind AI",
+  "version": "0.3.0",
+  "minAppVersion": "1.5.0",
+  "description": "在 Obsidian 中与多种大模型对话：右键“问 AI”、右侧边栏聊天面板、Agent 改文档、WeaveMind 画布联动，支持 DeepSeek、GLM(智谱)、Kimi(月之暗面)、Claude、GPT。",
+  "author": "iHealth WeaveMind",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
